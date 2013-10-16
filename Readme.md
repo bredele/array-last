@@ -9,8 +9,16 @@
 
     $ component install leafs/array-last
 
-## API
+## Usage
 
+```js
+var last = require('last');
+last(['olivier', 'bruno', 'amy']);
+// ['amy']
+
+last(['olivier', 'bruno', 'amy'], 2);
+//['bruno', 'amy']
+```
 
 
 ## License

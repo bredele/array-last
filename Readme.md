@@ -24,7 +24,6 @@ last(['olivier', 'bruno', 'amy'], 2);
 //['bruno', 'amy']
 ```
 
-
 ## License
 
   MIT

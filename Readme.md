@@ -17,7 +17,7 @@ last(['olivier', 'bruno', 'amy']);
 // ['amy']
 ```
 
-Passing nb will return the nb last elements.
+Passing an index will return the N last elements.
 
 ```js
 last(['olivier', 'bruno', 'amy'], 2);

@@ -15,7 +15,11 @@
 var last = require('last');
 last(['olivier', 'bruno', 'amy']);
 // ['amy']
+```
 
+Passing nb will return the nb last elements.
+
+```js
 last(['olivier', 'bruno', 'amy'], 2);
 //['bruno', 'amy']
 ```

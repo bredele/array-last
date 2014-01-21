@@ -1,6 +1,6 @@
 {
   "name": "last",
-  "repo": "leafs/array-last",
+  "repo": "bredele/array-last",
   "description": "Return the last elements of an Array",
   "version": "0.0.1",
   "keywords": [],

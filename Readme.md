@@ -1,4 +1,3 @@
-
 # array-last
 
   Return the last elements of an Array
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/array-last
+    $ component install bredele/array-last
 
 ## Usage
 
